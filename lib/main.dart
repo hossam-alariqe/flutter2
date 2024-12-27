@@ -19,7 +19,7 @@ class MyWidget extends StatelessWidget {
 
             title: const TextField(
               decoration: InputDecoration(
-                hintText: ' محمد علي العريقي',
+                hintText: ' حسام نبيل العريقي',
                 prefixIcon: Icon(Icons.search)
               ),
             ),
@@ -126,7 +126,7 @@ class SecondPage extends StatelessWidget {
 
             title: const TextField(
               decoration: InputDecoration(
-                hintText: ' محمد علي',
+                hintText: ' Hossam alariqe',
                 prefixIcon: Icon(Icons.search)
               ),
             ),
